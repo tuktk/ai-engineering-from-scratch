@@ -6,6 +6,12 @@
       "sourceType": "github",
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "913b9d37d0d54047dd65222bb8c67b2bf04e3cb87dcad1729068d7a8b2c8c396"
+    },
+    "teach": {
+      "source": "sebastianelvis/hammer",
+      "sourceType": "github",
+      "skillPath": "skills/teach/SKILL.md",
+      "computedHash": "8fbd975f2da4e77a9a469684d5008266e9a60dcee9139f070ffc8f68d7c1e71c"
     }
   }
 }
