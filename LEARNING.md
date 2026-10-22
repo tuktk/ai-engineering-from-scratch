@@ -3,19 +3,19 @@
      Repo: https://github.com/rohitg00/ai-engineering-from-scratch -->
 
 ## Mission
-Learn AI engineering from scratch by working through this repo's curriculum.
-Build goal: a RAG product.
+Learn AI engineering from scratch by working through the whole repo curriculum with no gaps.
+Build goal: not decided yet (onboarding guessed "a RAG product"; learner later said "not sure yet").
 
 ## Placement
 - Date: 2026-10-22
 - Score: self-selected
-- Entry point: Phase 1: Math Foundations
+- Entry point: Phase 0: Setup & Tooling
 - Pace: ~10 h/week
 
 ## Path
 | Phase | Name | Status | Est. hours |
 |-------|------|--------|------------|
-| 0 | Setup & Tooling | Skip | -- |
+| 0 | Setup & Tooling | Do | 14 |
 | 1 | Math Foundations | Do | 23 |
 | 2 | ML Fundamentals | Do | 21 |
 | 3 | Deep Learning Core | Do | 15 |
@@ -35,7 +35,7 @@ Build goal: a RAG product.
 | 17 | Infrastructure & Production | Do | 32 |
 | 18 | Ethics, Safety & Alignment | Do | 31 |
 | 19 | Capstone Projects | Do | 620 |
-| | **Total** | | **1114** |
+| | **Total** | | **1128** |
 
 ## Progress log
 | Date | Lesson | Quiz | Note |
