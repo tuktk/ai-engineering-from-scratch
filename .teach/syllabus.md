@@ -42,4 +42,4 @@ Ordered list of concepts, from first to last. Items keep their number for the li
 
 Append-only log of sessions that strayed from the next-due arc item. Do not delete entries — the trail is what tells you whether the plan still fits reality or needs reshaping.
 
-_(Empty.)_
+- 2026-10-22: phases/00/01 setup done directly by tutor in the cloud container, not tutored — learner asked not to spend time on pure setup lessons

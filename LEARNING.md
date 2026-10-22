@@ -40,5 +40,6 @@ Build goal: not decided yet (onboarding guessed "a RAG product"; learner later s
 ## Progress log
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
+| 2026-10-22 | 00/01-dev-environment | skipped | Setup done by tutor in cloud container (learner request: don't tutor pure setup). Python 3.13, git, Node 22, Rust, numpy, matplotlib, jupyter installed. |
 
 ## Review queue
