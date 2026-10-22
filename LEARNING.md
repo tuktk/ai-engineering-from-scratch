@@ -45,6 +45,6 @@ Build goal: not decided yet (onboarding guessed "a RAG product"; learner later s
 | 2026-10-22 | 00/05-jupyter-notebooks | skipped | Done by tutor: Jupyter installed. |
 | 2026-10-22 | 00/06-python-environments | skipped | Done by tutor: packages installed into system Python (throwaway container); learner told why venvs matter. |
 | 2026-10-22 | 00/07-docker-for-ai | skipped | Done by tutor: Docker 29.9 CLI present, daemon started. |
-| 2026-10-22 | 00/08-editor-setup | skipped | Not applicable in cloud chat (iPad); revisit on learner's own computer. |
+| 2026-10-22 | 00/08-editor-setup | skipped | Not applicable in cloud chat (iPad); revisit on learner's Mac (Fri-Sun). |
 
 ## Review queue
