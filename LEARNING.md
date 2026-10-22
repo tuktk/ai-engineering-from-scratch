@@ -41,5 +41,10 @@ Build goal: not decided yet (onboarding guessed "a RAG product"; learner later s
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
 | 2026-10-22 | 00/01-dev-environment | skipped | Setup done by tutor in cloud container (learner request: don't tutor pure setup). Python 3.13, git, Node 22, Rust, numpy, matplotlib, jupyter installed. |
+| 2026-10-22 | 00/03-gpu-setup-and-cloud | skipped | Done by tutor: gpu_check.py ran; no GPU in cloud container (CPU only), PyTorch 2.14.1 installed. |
+| 2026-10-22 | 00/05-jupyter-notebooks | skipped | Done by tutor: Jupyter installed. |
+| 2026-10-22 | 00/06-python-environments | skipped | Done by tutor: packages installed into system Python (throwaway container); learner told why venvs matter. |
+| 2026-10-22 | 00/07-docker-for-ai | skipped | Done by tutor: Docker 29.9 CLI present, daemon started. |
+| 2026-10-22 | 00/08-editor-setup | skipped | Not applicable in cloud chat (iPad); revisit on learner's own computer. |
 
 ## Review queue
