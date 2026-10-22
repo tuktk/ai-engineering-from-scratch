@@ -10,7 +10,7 @@ AI engineering from scratch (repo curriculum, starting Phase 1: Math Foundations
 
 One sentence: what you want to be able to *do* once you understand the current topic. Set during calibration; paired with `Currently studying` — when the topic shifts, replace both together. Downstream modes (tutoring and arc planning) read this to calibrate what is worth emphasizing.
 
-_(Not yet stated by learner — asked 2026-10-22. Onboarding picked "a RAG product" as build goal; unconfirmed.)_
+Learn enough of how AI systems are built, from the math up to a working retrieval app, to decide whether AI engineering is worth pursuing. (Learner chose "not sure yet" 2026-10-22.)
 
 ## Known solid
 
