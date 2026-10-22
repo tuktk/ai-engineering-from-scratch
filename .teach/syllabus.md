@@ -17,7 +17,7 @@ Things this syllabus deliberately does NOT cover. Useful for containing scope cr
 
 Ordered list of concepts, from first to last. Items keep their number for the life of the syllabus — deferred or dropped items leave a numbered gap rather than being renumbered, so references in the Deviations log stay valid.
 
-1. Phase 0: Setup & Tooling (12 lessons) — pending
+1. Phase 0: Setup & Tooling (12 lessons) — in progress since 2026-10-22
 2. Phase 1: Math Foundations (22 lessons; 01-16 full, 04 test-out first, 17-22 short) — pending
 3. Phase 2: ML Fundamentals (18 lessons) — pending
 4. Phase 3: Deep Learning Core (13 lessons) — pending
